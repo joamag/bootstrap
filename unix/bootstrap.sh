@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 # João Magalhães Bootstrap Scripts
-# Copyright (c) 2008-2018 Hive Solutions Lda.
+# Copyright (c) 2008-2018 João Magalhães
 #
 # This file is part of João Magalhães Bootstrap Scripts.
 #
@@ -19,11 +19,11 @@
 # You should have received a copy of the Apache License along with
 # João Magalhães Bootstrap Scripts. If not, see <http://www.apache.org/licenses/>.
 
-# __author__    = João Magalhães <joamag@hive.pt>
+# __author__    = João Magalhães <joamag@gmail.com>
 # __version__   = 1.0.0
 # __revision__  = $LastChangedRevision$
 # __date__      = $LastChangedDate$
-# __copyright__ = Copyright (c) 2008-2018 Hive Solutions Lda.
+# __copyright__ = Copyright (c) 2008-2018 João Magalhães
 # __license__   = Apache License, Version 2.0
 
 # sets the temporary variables

@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 # João Magalhães Bootstrap Scripts
-# Copyright (c) 2008-2018 Hive Solutions Lda.
+# Copyright (c) 2008-2018 João Magalhães
 #
 # This file is part of João Magalhães Bootstrap Scripts.
 #
@@ -19,7 +19,7 @@
 # You should have received a copy of the Apache License along with
 # João Magalhães Bootstrap Scripts. If not, see <http://www.apache.org/licenses/>.
 
-__author__ = "João Magalhães <joamag@hive.pt>"
+__author__ = "João Magalhães <joamag@gmail.com>"
 """ The author(s) of the module """
 
 __version__ = "1.0.0"
@@ -31,7 +31,7 @@ __revision__ = "$LastChangedRevision$"
 __date__ = "$LastChangedDate$"
 """ The last change date of the module """
 
-__copyright__ = "Copyright (c) 2008-2018 Hive Solutions Lda."
+__copyright__ = "Copyright (c) 2008-2018 João Magalhães"
 """ The copyright for the module """
 
 __license__ = "Apache License, Version 2.0"
@@ -59,17 +59,17 @@ VERBOSE = True
 """ The default verbosity level to be used during the
 execution of the bootstrap commands """
 
-BASE_ADDRESS = "https://github.com/hivesolutions/bootstrap/raw/master/%s"
+BASE_ADDRESS = "https://github.com/joamag/bootstrap/raw/master/%s"
 """ The base address to the remote location
 of the repository to retrieve the file """
 
 BOOTSTRAP_COMMANDS = {
     "github" : (
-        "git clone --recursive git@github.com:hivesolutions/{0}.git {0} {1}",
+        "git clone --recursive git@github.com:joamag/{0}.git {0} {1}",
         "cd {0} && git submodule init && git submodule update && git submodule foreach git checkout master"
     ),
     "bitbucket" : (
-        "git clone --recursive git@bitbucket.org:hivesolutions/{0}.git {0} {1}",
+        "git clone --recursive git@bitbucket.org:joamag/{0}.git {0} {1}",
         "cd {0} && git submodule init && git submodule update && git submodule foreach git checkout master"
     )
 }
