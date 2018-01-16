@@ -4,7 +4,7 @@ This set of scripts were created in order to simplify the deployment of the vari
 
 ## Quick start
 
-* Download the [Python Script](https://raw.github.com/hivesolutions/bootstrap/master/lib/bootstrap.py).
+* Download the [Python Script](https://raw.github.com/joamag/bootstrap/master/lib/bootstrap.py).
 * Run the command `python bootstrap.py --download` inside the target repository directory to download and update the set of scripts.
 * Run the command `python bootstrap.py --bootstrap` in order to bootstrap the system repositories.
 
