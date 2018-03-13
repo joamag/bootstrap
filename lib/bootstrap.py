@@ -109,6 +109,7 @@ REPOSITORIES = {
         "bootstrap",
         "doers",
         "dump",
+        "examples_java",
         "generator",
         "goers",
         "hello_kotlin",
