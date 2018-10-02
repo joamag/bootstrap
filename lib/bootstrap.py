@@ -120,11 +120,11 @@ REPOSITORIES = {
         "invite",
         "joamag_neo",
         "mingus",
-        "pong",
         "ptorrent",
         "scully",
         "simplefs",
         "snippets",
+        "viewer",
         "weddy"
     ),
     "bitbucket" : (
