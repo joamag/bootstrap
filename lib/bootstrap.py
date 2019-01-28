@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 # João Magalhães Bootstrap Scripts
-# Copyright (c) 2008-2018 João Magalhães
+# Copyright (c) 2008-2019 João Magalhães
 #
 # This file is part of João Magalhães Bootstrap Scripts.
 #
@@ -31,7 +31,7 @@ __revision__ = "$LastChangedRevision$"
 __date__ = "$LastChangedDate$"
 """ The last change date of the module """
 
-__copyright__ = "Copyright (c) 2008-2018 João Magalhães"
+__copyright__ = "Copyright (c) 2008-2019 João Magalhães"
 """ The copyright for the module """
 
 __license__ = "Apache License, Version 2.0"

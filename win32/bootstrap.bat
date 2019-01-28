@@ -1,5 +1,5 @@
 :: João Magalhães Bootstrap Scripts
-:: Copyright (c) 2008-2018 João Magalhães
+:: Copyright (c) 2008-2019 João Magalhães
 ::
 :: This file is part of João Magalhães Bootstrap Scripts.
 ::
@@ -20,7 +20,7 @@
 :: __version__   = 1.0.0
 :: __revision__  = $LastChangedRevision$
 :: __date__      = $LastChangedDate$
-:: __copyright__ = Copyright (c) 2008-2018 João Magalhães
+:: __copyright__ = Copyright (c) 2008-2019 João Magalhães
 :: __license__   = Apache License, Version 2.0
 
 :: turns off the echo
