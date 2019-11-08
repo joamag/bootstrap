@@ -120,6 +120,7 @@ REPOSITORIES = {
         "invite",
         "joamag_neo",
         "mingus",
+        "pandas",
         "ptorrent",
         "scully",
         "simplefs",
