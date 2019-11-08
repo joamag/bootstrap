@@ -121,6 +121,7 @@ REPOSITORIES = {
         "joamag_neo",
         "mingus",
         "pandas",
+        "pandas_private",
         "ptorrent",
         "scully",
         "simplefs",
