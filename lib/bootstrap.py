@@ -107,6 +107,7 @@ REPOSITORIES = {
         "aplayer",
         "binac",
         "bootstrap",
+        "cleanup-hosted",
         "doers",
         "dump",
         "examples_java",
