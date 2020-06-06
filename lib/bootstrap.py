@@ -109,6 +109,7 @@ REPOSITORIES = {
         "bootstrap",
         "cleanup-hosted",
         "doers",
+        "docker-github-actions-runner",
         "dump",
         "examples_java",
         "generator",
