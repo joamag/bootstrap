@@ -114,6 +114,7 @@ REPOSITORIES = {
         "examples_java",
         "generator",
         "goers",
+        "hello_asm",
         "hello_kotlin",
         "hello_node",
         "hello_scala",
