@@ -126,6 +126,7 @@ REPOSITORIES = {
         "pandas",
         "pandas_private",
         "ptorrent",
+        "rasp_kernel",
         "scully",
         "simplefs",
         "snippets",
